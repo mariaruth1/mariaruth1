@@ -8,7 +8,7 @@ Computer Science student at EASV, Esbjerg
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mariaruth1&theme=buefy&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mariaruth1&theme=buefy&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats-ifvb7odxz-mariaruth1.vercel.app/api/top-langs/?username=mariaruth1&theme=buefy&hide_border=false&layout=compact&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ifvb7odxz-mariaruth1.vercel.app/api/top-langs/?username=mariaruth1&theme=buefy&hide_border=false&layout=compact&include_all_commits=true&count_private=true)](https://github.com/mariaruth1/github-readme-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mariaruth1&icon=5&color=6)](https://visitcount.itsvg.in)
