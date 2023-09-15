@@ -1,4 +1,4 @@
-# About me:
+$${\color{purple}About \space me:}$$
 In my second year of computer science, enjoying melding logical and creative thinking while diving into new languages/frameworks.
 Currently working on creating web applications, using and learning .NET and Angular.
 
