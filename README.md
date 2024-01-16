@@ -13,6 +13,3 @@ For all collaborative projects see [https://github.com/Team-Wilhelm](https://git
 ![](https://github-readme-stats.vercel.app/api?username=mariaruth1&hide=prs,issues&theme=buefy&hide_border=false&include_all_commits=false&count_private=true)
 <br />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mariaruth1&theme=buefy&hide_border=false)
-
----
-[![](https://visitcount.itsvg.in/api?id=mariaruth1&icon=5&color=6)](https://visitcount.itsvg.in)
