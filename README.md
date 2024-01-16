@@ -9,7 +9,4 @@ For all collaborative projects see [https://github.com/Team-Wilhelm](https://git
 
 # 🧮 GitHub Stats:
 [![Top Langs](https://github-readme-stats-ifvb7odxz-mariaruth1.vercel.app/api/top-langs/?username=mariaruth1&theme=buefy&hide_border=false&&layout=donut&include_all_commits=true&count_private=true)](https://github.com/mariaruth1/github-readme-stats)
-<br />
-![](https://github-readme-stats.vercel.app/api?username=mariaruth1&hide=prs,issues&theme=buefy&hide_border=false&include_all_commits=false&count_private=true)
-<br />
-![](https://github-readme-streak-stats.herokuapp.com/?user=mariaruth1&theme=buefy&hide_border=false)
+
