@@ -5,7 +5,6 @@ Currently working on creating web applications, using and learning .NET and Angu
 For all collaborative projects see [https://github.com/Team-Wilhelm](https://github.com/Team-Wilhelm)
 
 # Tech Stack:
-<p align="left"> 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -17,7 +16,6 @@ For all collaborative projects see [https://github.com/Team-Wilhelm](https://git
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
-</p>
 
 [![Top Langs](https://github-readme-stats-ifvb7odxz-mariaruth1.vercel.app/api/top-langs/?username=mariaruth1&theme=buefy&hide_border=false&&layout=donut&include_all_commits=true&count_private=true)](https://github.com/mariaruth1/github-readme-stats)
 
