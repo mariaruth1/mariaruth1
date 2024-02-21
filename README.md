@@ -1,6 +1,10 @@
 # About me:
 In my second year of computer science, enjoying melding logical and creative thinking while diving into new languages/frameworks.
-Currently taking electives, Fullstack Development (Angular, websockets), Internet of Things (Arduino, Micropython) and Mobile Development (Flutter, Dart).
+
+Currently taking electives: 
+* Fullstack Development (Angular, websockets)
+* Internet of Things (Arduino, Micropython)
+* Mobile Development (Flutter, Dart)
 
 For all collaborative projects see [https://github.com/Team-Wilhelm](https://github.com/Team-Wilhelm)
 
