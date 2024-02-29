@@ -2,7 +2,7 @@
 In my second year of computer science, enjoying melding logical and creative thinking while diving into new languages/frameworks.
 
 Currently taking electives: 
-* Fullstack Development (Angular, websockets)
+* Fullstack Development (Angular, .NET C#, websockets)
 * Internet of Things (Arduino, Micropython)
 * Mobile Development (Flutter, Dart)
 
