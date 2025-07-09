@@ -24,5 +24,3 @@ For all collaborative projects see [https://github.com/Team-Wilhelm](https://git
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
-[![Top Langs](https://github-readme-stats-ifvb7odxz-mariaruth1.vercel.app/api/top-langs/?username=mariaruth1&theme=buefy&hide_border=false&&layout=donut&include_all_commits=true&count_private=true)](https://github.com/mariaruth1/github-readme-stats)
-
